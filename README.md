@@ -1,9 +1,10 @@
 Hi everyone, This is Yougen Yuan, Welcome to my personal homepage. I’m interested in
 - speech keyword retrival / spotting / search 
-- audio/visual similarity
-- speech recognition / speaker recognition /audio scene classication / speech language identification
-- audio-visual multi-modal fusion
-- LLM
+- speech recognition / speaker recognition / audio scene classication / speech language identification
+- audio / visual / text similarity
+- audio-visual multi-modal
+- image-text / video-text multi-modal
+- large language models
 
 If you are interested in my works, please feel free to reach me by 📫 yougenyuan@gmail.com
 
