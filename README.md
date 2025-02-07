@@ -1,12 +1,24 @@
-Hi everyone, This is Yougen Yuan, Welcome to my personal homepage. I’m interested in
-- speech keyword retrival / spotting / search 
-- speech recognition / speaker recognition / audio scene classication / speech language identification
-- audio / visual / text similarity
-- audio-visual multi-modal
-- image-text / video-text multi-modal
-- large language models
+# 👋 Welcome to My Personal Homepage
 
-If you are interested in my works, please feel free to reach me by 📫 yougenyuan@gmail.com
+Hi everyone! I'm Yougen Yuan. Glad to have you here.
+
+## 🔍 Research Interests
+
+- **Speech Processing**
+  - Speech Keyword Retrieval / Spotting / Search
+  - Speech Recognition
+  - Speaker Recognition
+  - Audio Scene Classification
+  - Speech Language Identification
+- **Multimodal Analysis**
+  - Audio / Visual / Text Similarity
+  - Audio - Visual Multimodal
+  - Image - Text / Video - Text Multimodal
+- **Large Language Models**
+
+## 📫 Contact Me
+
+If you are interested in my works, feel free to reach out to me at [yougenyuan@gmail.com](mailto:yougenyuan@gmail.com).
 
 <!---
 ygyuan/ygyuan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
