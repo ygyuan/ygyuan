@@ -1,31 +1,42 @@
-# 👋 Welcome to My Personal Homepage
+# 👋 Yougen Yuan
 
-Hi everyone! I'm Yougen Yuan. Glad to have you here.
+Hi — I’m Yougen Yuan. Welcome to my personal homepage. I work on research at the intersection of LLMs/VLLMs, Agentic RAG, speech processing, multimodal learning, and clustering. This repository contains links to my projects, papers, and contact information.
 
-## 🔍 Research Interests
+## 🔍 Research interests
+- LLMs/VLLMs && Agentic RAG
+  - Qwen / Internvl / Deepseek / Kimi
+  - SFT / Lora / DPO / MPO / COT
+  - RAG
+  - Dify
 
-- **Speech Processing**
-  - Speech Keyword Retrieval / Spotting / Search
-  - Zero-shot Text-to-Speech generation / Voice Conversion / End-to-End Speech Interaction
-  - Speech Recognition
-  - Audio Scene Classification
-  - Speech Language Identification
-    
-- **Multimodal Analysis**
-  - Language-Image Fusion
-  - Contrastive Language-Image Pre-Training
-  - Multimodal with LLMs
-  
-- **Clustering**
- - Audio / Visual / Text Similarity
- - Audio / Visual / Text Deephasing
- - SinglePass / HDBSCNN clustering
-   
-## 📫 Contact Me
+- Speech processing
+  - Keyword retrieval / spotting / search
+  - Zero-shot text-to-speech, voice conversion, and end-to-end speech interaction
+  - Speech recognition
+  - Audio scene classification
+  - Speech language identification
 
-If you are interested in my works, feel free to reach out to me at [yougenyuan@gmail.com](mailto:yougenyuan@gmail.com).
+- Multimodal analysis
+  - CLIPs
+  - Language–Image Recognition
+  - Multimodal representation learning with LLMs
 
-<!---
+- Clustering and retrieval
+  - Audio / visual / text similarity and representation
+  - Large-scale clustering (SinglePass, HDBSCAN variants)
+
+## 📂 What you’ll find here
+
+- Links to code and demo projects related to my research
+- Selected models and experiments for keyword retrieval, TTS/VC, and multimodal fusion
+- Notes and resources about clustering and large-scale similarity search
+
+## 📫 Contact
+
+If you’re interested in my work or want to collaborate, please reach out: [yougenyuan@gmail.com](mailto:yougenyuan@gmail.com)
+
+---
+
+<!--
 ygyuan/ygyuan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-->
