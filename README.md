@@ -1,39 +1,38 @@
 # 👋 Yougen Yuan
 
-Hi — I’m Yougen Yuan. Welcome to my personal homepage. I work on research at the intersection of LLMs/VLLMs, Agentic RAG, speech processing, multimodal learning, and clustering. This repository contains links to my projects, papers, and contact information.
+Hi — I’m Yougen Yuan. Welcome to my personal homepage.
+I conduct research at the intersection of **LLMs/VLLMs, Agentic RAG, speech processing, multimodal learning, and clustering**.
+This repository contains links to my projects, papers, and contact information.
 
-## 🔍 Research interests
-- LLMs/VLLMs && Agentic RAG
-  - Qwen / Internvl / Deepseek / Kimi
-  - SFT / Lora / DPO / MPO / COT
-  - RAG
-  - Dify
+## 🔍 Research Interests
 
-- Speech processing
-  - Keyword retrieval / spotting / search
-  - Zero-shot text-to-speech, voice conversion, and end-to-end speech interaction
-  - Speech recognition
-  - Audio scene classification
-  - Speech language identification
+### LLMs/VLLMs
+- Models: Qwen, InternVL, DeepSeek, Kimi, GLM, MiniMax
+- Methods: SFT, LoRA, DPO, MPO, CoT, GRPO
+- Applications: RAG, Dify
 
-- Multimodal analysis
-  - CLIPs
-  - Language–Image Recognition
-  - Multimodal representation learning with LLMs
+### Speech Processing
+- Speech Retrieval: spoken term detection, wake-up word detection, keyword spotting
+- TTS: zero-shot text-to-speech, voice conversion, end-to-end spoken interaction
+- ASR: automatic speech recognition
+- Audio Classification: Audio scene classification, Speech language identification
 
-- Clustering and retrieval
-  - Audio / visual / text similarity and representation
-  - Large-scale clustering (SinglePass, HDBSCAN variants)
+### Multimodal Learning
+- CLIP-based frameworks: weclip, youclip
+- Language–image recognition, LLM-driven multimodal representation learning
+
+### Clustering & Retrieval
+- Audio, visual, and text similarity representation
+- Large-scale clustering (SinglePass, HDBSCAN variants)
 
 ## 📂 What you’ll find here
-
-- Links to code and demo projects related to my research
+- Code and demo projects related to my research
 - Selected models and experiments for keyword retrieval, TTS/VC, and multimodal fusion
 - Notes and resources about clustering and large-scale similarity search
 
 ## 📫 Contact
-
-If you’re interested in my work or want to collaborate, please reach out: [yougenyuan@gmail.com](mailto:yougenyuan@gmail.com)
+If you’re interested in my work or open to collaboration, feel free to reach out:
+[yougenyuan@gmail.com](mailto:yougenyuan@gmail.com)
 
 ---
 
